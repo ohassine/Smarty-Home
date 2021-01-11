@@ -1,7 +1,8 @@
-package com.oussama.smartyhome
+package com.oussama.smartyhome.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.oussama.smartyhome.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

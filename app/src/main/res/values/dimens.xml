@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_home_smarty_size">45sp</dimen>
+    <dimen name="text_view_home_welcome_size">22sp</dimen>
+    <dimen name="textInputLayoutNameWidth">200dp</dimen>
+    <dimen name="text_input_edit_text_name_size">22sp</dimen>
+    <dimen name="button_home_continue_text_size">16sp</dimen>
+    <dimen name="text_view_home_welcome_margin_bottom">15dp</dimen>
+    <dimen name="text_input_layout_name_margin_bottom">10dp</dimen>
+    <dimen name="button_home_continue_margin_bottom">50dp</dimen>
+    <dimen name="button_home_continue_padding_start">25dp</dimen>
+    <dimen name="button_home_continue_padding_end">25dp</dimen>
+    <dimen name="button_home_continue_padding_top">15dp</dimen>
+    <dimen name="button_home_continue_padding_bottom">15dp</dimen>
+
+</resources>
