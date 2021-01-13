@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_main_smarty_size">50sp</dimen>
+    <dimen name="text_view_main_welcome_size">27sp</dimen>
+    <dimen name="text_input_layout_name_main_width">250dp</dimen>
+    <dimen name="text_input_edit_text_main_name_size">27sp</dimen>
+    <dimen name="button_main_continue_main_text_size">23sp</dimen>
+    <dimen name="text_view_main_welcome_margin_bottom">30dp</dimen>
+    <dimen name="text_input_layout_name_main_margin_bottom">20dp</dimen>
+    <dimen name="button_main_continue_margin_bottom">50dp</dimen>
+    <dimen name="button_main_continue_padding_start">40dp</dimen>
+    <dimen name="button_main_continue_padding_end">50dp</dimen>
+    <dimen name="button_main_continue_padding_top">25dp</dimen>
+    <dimen name="button_main_continue_padding_bottom">25dp</dimen>
+    <dimen name="cardview_height">240dp</dimen>
+    <dimen name="textViewRoomNameSize">28sp</dimen>
+    <dimen name="textViewDeviceSize">22sp</dimen>
+    <dimen name="textViewRoomNameMarginStart">24dp</dimen>
+    <dimen name="text_view_name_home_size">48sp</dimen>
+    <dimen name="textViewHomeDateSize">25sp</dimen>
+
+</resources>

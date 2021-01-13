@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="text_view_home_smarty_size">45sp</dimen>
-    <dimen name="text_view_home_welcome_size">22sp</dimen>
-    <dimen name="textInputLayoutNameWidth">200dp</dimen>
-    <dimen name="text_input_edit_text_name_size">22sp</dimen>
-    <dimen name="button_home_continue_text_size">16sp</dimen>
-    <dimen name="text_view_home_welcome_margin_bottom">15dp</dimen>
-    <dimen name="text_input_layout_name_margin_bottom">10dp</dimen>
-    <dimen name="button_home_continue_margin_bottom">50dp</dimen>
-    <dimen name="button_home_continue_padding_start">25dp</dimen>
-    <dimen name="button_home_continue_padding_end">25dp</dimen>
-    <dimen name="button_home_continue_padding_top">15dp</dimen>
-    <dimen name="button_home_continue_padding_bottom">15dp</dimen>
+    <dimen name="text_view_main_smarty_size">45sp</dimen>
+    <dimen name="text_view_main_welcome_size">22sp</dimen>
+    <dimen name="text_input_layout_name_main_width">200dp</dimen>
+    <dimen name="text_input_edit_text_main_name_size">22sp</dimen>
+    <dimen name="button_main_continue_main_text_size">20sp</dimen>
+    <dimen name="text_view_main_welcome_margin_bottom">15dp</dimen>
+    <dimen name="text_input_layout_name_main_margin_bottom">15dp</dimen>
+    <dimen name="button_main_continue_margin_bottom">50dp</dimen>
+    <dimen name="button_main_continue_padding_start">35dp</dimen>
+    <dimen name="button_main_continue_padding_end">35dp</dimen>
+    <dimen name="button_main_continue_padding_top">20dp</dimen>
+    <dimen name="button_main_continue_padding_bottom">20dp</dimen>
+    <dimen name="text_view_name_home_size">35sp</dimen>
+    <dimen name="radius">3dp</dimen>
+    <dimen name="evl">5dp</dimen>
+    <dimen name="cardview_height">160dp</dimen>
+    <dimen name="textViewRoomNameSize">18sp</dimen>
+    <dimen name="textViewDeviceSize">14sp</dimen>
+    <dimen name="textViewRoomNameMarginStart">16dp</dimen>
+    <dimen name="textViewHomeDateSize">15sp</dimen>
 
 </resources>

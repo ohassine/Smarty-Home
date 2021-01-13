@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">SmartyHome</string>
-    <string name="txt_home_smarty">Smarty</string>
+    <string name="txt_main_smarty">Smarty</string>
     <string name="txt_your_name">Your Name</string>
-    <string name="txt_welcome_home">Welcome Home</string>
+    <string name="txt_welcome_main">Welcome Home</string>
     <string name="txt_continue">Continue</string>
+    <string name="txt_enter_your_name">please enter your name first</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
 </resources>
