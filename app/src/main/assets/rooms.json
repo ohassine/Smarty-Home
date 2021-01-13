@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Living Room",
+    "deviceNumber": 4,
+    "image": "livingroom"
+  },
+  {
+    "name": "Media Room",
+    "deviceNumber": 6,
+    "image": "mediaroom"
+  },
+  {
+    "name": "Bathroom",
+    "deviceNumber": 1,
+    "image": "bathroom"
+  },
+  {
+    "name": "Bedroom",
+    "deviceNumber": 3,
+    "image": "bedroom"
+  }
+]
